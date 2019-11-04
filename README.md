@@ -9,6 +9,7 @@ git clone https://github.com/CharmoulaSfax/mnemonic-balance.git
 ```
 Starting : 
 ```js
+npm install
 npm start
 ```
 # Usage
