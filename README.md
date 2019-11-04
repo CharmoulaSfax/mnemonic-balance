@@ -11,7 +11,7 @@ Starting :
 ```js
 npm start
 ```
-# Using
+# Usage
 Download our npm module :
 ```js
 npm install mnemonic-balance
