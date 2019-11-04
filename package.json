@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.1.6",
+    "request": "^2.88.0",
+    "express": "^4.17.1",
+    "bip39": "^3.0.2",
+    "ethers": "^4.0.38"
+  }
+}
